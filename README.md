@@ -25,3 +25,10 @@ Before running the app, make sure you have the following installed:
 
    ```bash
    https://github.com/derekp722/VinumClassify-White-Wine-Edition.git
+
+
+## Access Deployed App
+
+Click on the link below:
+
+https://derekp722-vinumclassify-wh-09892054-mukelo-assignmenttwo-pjgpne.streamlit.app/
